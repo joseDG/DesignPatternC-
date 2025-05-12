@@ -1,0 +1,5 @@
+# Ignora toda la carpeta .vs y sus subcarpetas/archivos
+.vs/
+
+# Ignora todos los archivos generados en obj/Debug
+**/obj/
