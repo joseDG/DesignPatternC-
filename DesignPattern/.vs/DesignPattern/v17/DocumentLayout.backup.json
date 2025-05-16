@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|c:\\users\\usuario itc\\documents\\designpatternenc#\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|c:\\users\\usuario itc\\documents\\designpatternenc#\\designpattern\\designpattern\\3-dependencyinjectionpattern\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\3-dependencyinjectionpattern\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|c:\\users\\usuario itc\\documents\\designpatternenc#\\designpattern\\designpattern\\3-dependencyinjectionpattern\\drinkwithbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\3-dependencyinjectionpattern\\drinkwithbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|c:\\users\\usuario itc\\documents\\designpatternenc#\\designpattern\\designpattern\\5-unitofworkpattern\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EC65B3-0129-41F9-8829-83773B305757}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\5-unitofworkpattern\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\Program.cs",
-              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\Program.cs",
-              "RelativeToolTip": "DesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\5-UnitOfWorkPattern\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\5-UnitOfWorkPattern\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\5-UnitOfWorkPattern\\UnitOfWork.cs",
+              "RelativeToolTip": "DesignPattern\\5-UnitOfWorkPattern\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:16:54.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DrinkWithBeer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\3-DependencyInjectionPattern\\DrinkWithBeer.cs",
-              "RelativeDocumentMoniker": "DesignPattern\\3-DependencyInjectionPattern\\DrinkWithBeer.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\3-DependencyInjectionPattern\\DrinkWithBeer.cs",
-              "RelativeToolTip": "DesignPattern\\3-DependencyInjectionPattern\\DrinkWithBeer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:12:16.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\3-DependencyInjectionPattern\\Beer.cs",
-              "RelativeDocumentMoniker": "DesignPattern\\3-DependencyInjectionPattern\\Beer.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\DesignPatternEnC#\\DesignPattern\\DesignPattern\\3-DependencyInjectionPattern\\Beer.cs",
-              "RelativeToolTip": "DesignPattern\\3-DependencyInjectionPattern\\Beer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:11:57.823Z",
+              "WhenOpened": "2025-05-13T02:21:32.558Z",
               "EditorCaption": ""
             }
           ]
